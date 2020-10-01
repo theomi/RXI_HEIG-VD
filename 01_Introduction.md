@@ -1,10 +1,3 @@
----
-tags: [RXI]
-title: Les réseaux informatiques
-created: '2020-09-25T06:51:08.967Z'
-modified: '2020-10-01T18:10:50.473Z'
----
-
 # Les réseaux informatiques
 ## Définition
 Ensemble interconnecté d'ordinateurs autonome, utilisant un réseau à commutation pour l'interconnexion.
